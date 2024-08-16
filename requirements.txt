@@ -1,0 +1,13 @@
+Flask==2.3.2
+matplotlib==3.7.1
+numpy==1.24.2
+opencv_python==4.7.0.72
+opencv_python_headless==4.10.0.84
+Pillow==10.4.0
+scikit_learn==1.2.2
+tensorflow==2.16.2
+tensorflow-cpu==2.16.2
+torch==2.0.1
+torchvision==0.15.2
+transformers==4.42.3
+Werkzeug==2.3.6
